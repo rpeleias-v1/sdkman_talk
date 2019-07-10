@@ -1,4 +1,4 @@
-package com.rodrigopeleias.sdkman.java9;
+package java9;
 
 import java.util.List;
 
