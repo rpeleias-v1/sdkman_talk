@@ -32,4 +32,6 @@ sdk install java 8.xx
 sdk default java 8.xx
 ````
 
-Link with presentation: https://www.canva.com/design/DADfk8FtlGU/tuuQiqaOE-R2jV6KLQU4Lw/view?utm_content=DADfk8FtlGU&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
+Link with presentation (TDC Version): https://www.canva.com/design/DADfk8FtlGU/tuuQiqaOE-R2jV6KLQU4Lw/view?utm_content=DADfk8FtlGU&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
+
+Link with presentation (Java Meetup SP Version): https://www.canva.com/design/DADfB1MZufI/c3Wzd7tQ-QNKngKVcGDs9A/view?utm_content=DADfB1MZufI&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
